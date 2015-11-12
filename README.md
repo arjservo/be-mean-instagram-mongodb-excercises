@@ -1,3 +1,25 @@
-Devido a quantidade de Pull Requests errados iremos ter um repositório só para os exercícios para cada módulo.
+# be-mean-instagram-mongodb
+Guia de referência do conteúdo ministrado no módulo **mongoDB** do curso gratuíto [*Construa seu Instagram com MEAN*](http://dagora.net/be-mean/) da [Webschool.io](https://github.com/Webschool-io/)
 
-Só olhem a merda https://github.com/Webschool-io/be-mean-instagram/commit/0a6313a1a25fbbdea200db44df2dcf55bd59f95b
+## Apresentação (Slides)
+[Link para slides](
+https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit?usp=sharing
+)
+
+#### Aula 01 (Export & Import)
+Nessa aula foi falado um pouco sobre o curso [*"Construa seu Instagram com MEAN"*](http://dagora.net/be-mean/) e sua **EMENTA**.
+
+Algumas explicações sobre bancos __NO-SQL__ e seus tipos:
+```
+- Chave/Valor
+- Documentos
+- Colunas
+- Grafos
+```
+Foi falado também sobre a *__construção e estrutura__* do __mongoDB__.
+
+Finalizando a aula foram apresentados os comandos `export & import` do __mongoDB__ e uma ferramenta chamada __[mongohacker](https://tylerbrock.github.io/mongo-hacker/)__ que melhora a visualização de buscas e resultados no console.
+
+##### Links da Aula
+- [Vídeo da Aula](https://www.youtube.com/watch?v=leYxsEAL_yY)
+- [Exercício Resolvido](https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/exercises/class-01-resolved-arjservo.md)
